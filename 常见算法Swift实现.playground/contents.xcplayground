@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='语法'/>
+        <page name='闭包'/>
+        <page name='数学问题'/>
+        <page name='排序'/>
+        <page name='链表'/>
+        <page name='数组'/>
+        <page name='面试常见问题'/>
+        <page name='实际算法问题'/>
+        <page name='Untitled Page 2'/>
+        <page name='cha'/>
+    </pages>
+</playground>
